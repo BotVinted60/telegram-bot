@@ -4,30 +4,506 @@
     {
       "name": "Nike Tech Fleece",
       "query": "nike tech fleece",
-      "max_price": 35,
-      "sizes": ["XS","S", "M", "L"],
-      "exclude": ["enfant", "kids", "fake", "réplique", "replica"]
+      "max_price": 30,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "exclude": [
+        "enfant",
+        "kids",
+        "fake",
+        "réplique",
+        "replica"
+      ]
     },
     {
       "name": "Nike Tech (ensemble)",
       "query": "nike tech ensemble",
-      "max_price": 45,
-      "sizes": ["XS","S","M", "L"],
-      "exclude": ["enfant", "kids", "fake", "réplique", "replica"]
+      "max_price": 40,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "exclude": [
+        "enfant",
+        "kids",
+        "fake",
+        "réplique",
+        "replica"
+      ]
     },
     {
-      "name": "Running Nike",
-      "query": "Running",
-      "max_price": 35,
-      "sizes": ["S", "M", "L", "XL", "XS"],
-      "exclude": ["enfant", "fake", "réplique", "replica"]
+      "name": "Nike Running Division",
+      "query": "nike running division",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Run Division Veste",
+      "query": "nike run division veste",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Aeroswift",
+      "query": "nike aeroswift",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Aeroswift Short",
+      "query": "nike aeroswift short",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Aeroswift Singlet",
+      "query": "nike aeroswift singlet",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Berlin Running",
+      "query": "nike berlin running",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Gyakusou",
+      "query": "nike gyakusou",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Nikelab Running",
+      "query": "nike nikelab running",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Patta Running Team",
+      "query": "nike patta running team",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Windrunner",
+      "query": "nike windrunner",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Repel Miler",
+      "query": "nike repel miler",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Repel Windrunner",
+      "query": "nike repel windrunner",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Shield Running",
+      "query": "nike shield running",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Storm-Fit Running",
+      "query": "nike storm-fit running",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Impossibly Light",
+      "query": "nike impossibly light",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Dri-FIT Adv",
+      "query": "nike dri-fit adv",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Dri-FIT Miler",
+      "query": "nike dri-fit miler",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Challenger Short",
+      "query": "nike challenger short",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Stride Short",
+      "query": "nike stride short",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Tempo Short",
+      "query": "nike tempo short",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Pacer",
+      "query": "nike pacer",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Element Running",
+      "query": "nike element running",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Swift Running",
+      "query": "nike swift running",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Phenom Pantalon",
+      "query": "nike phenom pantalon",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
+    },
+    {
+      "name": "Nike Fast Running Tights",
+      "query": "nike fast running tights",
+      "max_price": 50,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
     },
     {
       "name": "Under Armour",
       "query": "Jogging Under Armour, Running Under Armour",
-      "max_price": 40
-      "sizes": ["XS", "S", "M", "L", "XL"],
-      "exclude": ["enfant", "fake", "réplique", "replica"]
+      "max_price": 40,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "exclude": [
+        "enfant",
+        "fake",
+        "réplique",
+        "replica"
+      ]
     }
   ]
 }
