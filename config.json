@@ -1,0 +1,33 @@
+{
+  "interval_seconds": 120,
+  "searches": [
+    {
+      "name": "Nike Tech Fleece",
+      "query": "nike tech fleece",
+      "max_price": 35,
+      "sizes": ["XS","S", "M", "L"],
+      "exclude": ["enfant", "kids", "fake", "réplique", "replica"]
+    },
+    {
+      "name": "Nike Tech (ensemble)",
+      "query": "nike tech ensemble",
+      "max_price": 45,
+      "sizes": ["XS","S","M", "L"],
+      "exclude": ["enfant", "kids", "fake", "réplique", "replica"]
+    },
+    {
+      "name": "Running Nike",
+      "query": "Running",
+      "max_price": 35,
+      "sizes": ["S", "M", "L", "XL", "XS"],
+      "exclude": ["enfant", "fake", "réplique", "replica"]
+    },
+    {
+      "name": "Under Armour",
+      "query": "Jogging Under Armour, Running Under Armour"
+      "max_price": 40
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "exclude": ["enfant", "fake", "réplique", "replica"]
+    }
+  ]
+}
