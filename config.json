@@ -24,7 +24,7 @@
     },
     {
       "name": "Under Armour",
-      "query": "Jogging Under Armour, Running Under Armour"
+      "query": "Jogging Under Armour, Running Under Armour",
       "max_price": 40
       "sizes": ["XS", "S", "M", "L", "XL"],
       "exclude": ["enfant", "fake", "réplique", "replica"]
